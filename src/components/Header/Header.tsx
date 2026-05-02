@@ -55,7 +55,7 @@ export default function MyHeader() {
                     getContainer={() => document.getElementById("theme-wrapper")!}
                     className="menu-header"
                     style={{ background: "var(--background)" }}
-                    title="Wassim Mayyasi"
+                    title="Bassel Aldroubi"
                     closable={true}
                     placement="top"
                     onClose={closeDrawer}

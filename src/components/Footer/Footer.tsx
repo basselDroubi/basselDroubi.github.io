@@ -43,7 +43,7 @@ export default function MyFooter() {
                     </div>
                     <div>
                         <p>Designed by:</p>{" "}
-                        <a target="_blank" href="https://www.linkedin.com/in/bassel-aldroubi-aa064413a/">
+                        <a target="_blank" href="https://www.linkedin.com/in/bassel-AlDroubi-aa064413a/">
                             Bassel Al Droubi
                         </a>
                     </div>
